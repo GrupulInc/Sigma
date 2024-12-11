@@ -18,16 +18,6 @@ app.title("Sigma Download Manager")
 app.iconbitmap("Assets\sigmadarkmodelogo.ico")
 
 
-
-
-
-
-
-
-
-
-
-
 # ---- BEGIN NORMAL DOWNLOADS POPUP ----
 
 
